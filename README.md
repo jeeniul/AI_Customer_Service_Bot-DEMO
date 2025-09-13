@@ -16,8 +16,6 @@ An intelligent AI system that automatically handles routine customer inquiries, 
 - ✅ Scales infinitely without hiring
 
 ## Live Demo
-[Screenshot of conversation showing bot handling order inquiry]
-[GIF of bot responding to multiple question types]
 
 **Try it yourself:** `python customer_bot.py`
 
@@ -42,6 +40,6 @@ This demo can be customized for your specific business needs:
 - Custom branding and workflows
 - Advanced features and reporting
 
-**Contact for consultation:** [Your email/LinkedIn]
+**Contact for consultation:** [www.linkedin.com/in/jeeniai]
 
 *Currently taking on 3 new automation projects this month.*
